@@ -1,0 +1,12 @@
+E:\MyProjects\POS(LuckyCd)\POS\POS\bin\Debug\POS.exe.config
+E:\MyProjects\POS(LuckyCd)\POS\POS\bin\Debug\POS.exe
+E:\MyProjects\POS(LuckyCd)\POS\POS\bin\Debug\POS.pdb
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.frmLogin.resources
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.Properties.Resources.resources
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.exe
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.pdb
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.frmItems.resources
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.frmDashBoard.resources
+E:\MyProjects\POS(LuckyCd)\POS\POS\obj\Debug\POS.frmPurchaseInvoice.resources
